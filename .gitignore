@@ -1,3 +1,4 @@
 .conda
 .vscode
 .DS_Store
+.pth
