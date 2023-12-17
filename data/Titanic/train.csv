@@ -147,7 +147,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 146,0,2,"Nicholls, Mr. Joseph Charles",male,19,1,1,C.A. 33112,36.75,,S
 147,1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27,0,0,350043,7.7958,,S
 148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",female,9,2,2,W./C. 6608,34.375,,S
-149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26,F2,S
+149,0,2,"Navratil, Mr. Michel (""xxx M Hoffman"")",male,36.5,0,2,230080,26,F2,S
 150,0,2,"Byles, Rev. Thomas Roussel Davids",male,42,0,0,244310,13,,S
 151,0,2,"Bateman, Rev. Robert James",male,51,0,0,S.O.P. 1166,12.525,,S
 152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22,1,0,113776,66.6,C2,S
@@ -414,7 +414,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 413,1,1,"Minahan, Miss. Daisy E",female,33,1,0,19928,90,C78,Q
 414,0,2,"Cunningham, Mr. Alfred Fleming",male,,0,0,239853,0,,S
 415,1,3,"Sundman, Mr. Johan Julian",male,44,0,0,STON/O 2. 3101269,7.925,,S
-416,0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,,0,0,343095,8.05,,S
+416,0,3,"Meek, Mrs. Thomas (Annie xxxe Rowley)",female,,0,0,343095,8.05,,S
 417,1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34,1,1,28220,32.5,,S
 418,1,2,"Silven, Miss. Lyyli Karoliina",female,18,0,2,250652,13,,S
 419,0,2,"Matthews, Mr. William John",male,30,0,0,28228,13,,S
@@ -426,7 +426,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 425,0,3,"Rosblom, Mr. Viktor Richard",male,18,1,1,370129,20.2125,,S
 426,0,3,"Wiseman, Mr. Phillippe",male,,0,0,A/4. 34244,7.25,,S
 427,1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28,1,0,2003,26,,S
-428,1,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,0,0,250655,26,,S
+428,1,2,"Phillips, Miss. Kate Florence (""Mrs Kate xxxe Phillips Marshall"")",female,19,0,0,250655,26,,S
 429,0,3,"Flynn, Mr. James",male,,0,0,364851,7.75,,Q
 430,1,3,"Pickard, Mr. Berk (Berk Trembisky)",male,32,0,0,SOTON/O.Q. 392078,8.05,E10,S
 431,1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28,0,0,110564,26.55,C52,S
@@ -522,7 +522,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 521,1,1,"Perreault, Miss. Anne",female,30,0,0,12749,93.5,B73,S
 522,0,3,"Vovk, Mr. Janko",male,22,0,0,349252,7.8958,,S
 523,0,3,"Lahoud, Mr. Sarkis",male,,0,0,2624,7.225,,C
-524,1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44,0,1,111361,57.9792,B18,C
+524,1,1,"Hippach, Mrs. xxx Albert (Ida Sophia Fischer)",female,44,0,1,111361,57.9792,B18,C
 525,0,3,"Kassem, Mr. Fared",male,,0,0,2700,7.2292,,C
 526,0,3,"Farrell, Mr. James",male,40.5,0,0,367232,7.75,,Q
 527,1,2,"Ridsdale, Miss. Lucy",female,50,0,0,W./C. 14258,10.5,,S
@@ -607,7 +607,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 606,0,3,"Lindell, Mr. Edvard Bengtsson",male,36,1,0,349910,15.55,,S
 607,0,3,"Karaic, Mr. Milan",male,30,0,0,349246,7.8958,,S
 608,1,1,"Daniel, Mr. Robert Williams",male,27,0,0,113804,30.5,,S
-609,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22,1,2,SC/Paris 2123,41.5792,,C
+609,1,2,"Laroche, Mrs. Joseph (Juliette Marie xxxe Lafargue)",female,22,1,2,SC/Paris 2123,41.5792,,C
 610,1,1,"Shutes, Miss. Elizabeth W",female,40,0,0,PC 17582,153.4625,C125,S
 611,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39,1,5,347082,31.275,,S
 612,0,3,"Jardin, Mr. Jose Neto",male,,0,0,SOTON/O.Q. 3101305,7.05,,S
@@ -617,7 +617,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 616,1,2,"Herman, Miss. Alice",female,24,1,2,220845,65,,S
 617,0,3,"Danbom, Mr. Ernst Gilbert",male,34,1,1,347080,14.4,,S
 618,0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26,1,0,A/5. 3336,16.1,,S
-619,1,2,"Becker, Miss. Marion Louise",female,4,2,1,230136,39,F4,S
+619,1,2,"Becker, Miss. Marion xxxe",female,4,2,1,230136,39,F4,S
 620,0,2,"Gavey, Mr. Lawrence",male,26,0,0,31028,10.5,,S
 621,0,3,"Yasbeck, Mr. Antoni",male,27,1,0,2659,14.4542,,C
 622,1,1,"Kimball, Mr. Edwin Nelson Jr",male,42,1,0,11753,52.5542,D19,S
@@ -715,7 +715,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 714,0,3,"Larsson, Mr. August Viktor",male,29,0,0,7545,9.4833,,S
 715,0,2,"Greenberg, Mr. Samuel",male,52,0,0,250647,13,,S
 716,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19,0,0,348124,7.65,F G73,S
-717,1,1,"Endres, Miss. Caroline Louise",female,38,0,0,PC 17757,227.525,C45,C
+717,1,1,"Endres, Miss. Caroline xxxe",female,38,0,0,PC 17757,227.525,C45,C
 718,1,2,"Troutt, Miss. Edwina Celia ""Winnie""",female,27,0,0,34218,10.5,E101,S
 719,0,3,"McEvoy, Mr. Michael",male,,0,0,36568,15.5,,Q
 720,0,3,"Johnson, Mr. Malkolm Joackim",male,33,0,0,347062,7.775,,S
